@@ -1,18 +1,6 @@
 # links section data
-- last_name: Name 1
+- last_name: stackoverflow profile 
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: personal profile 
+  website: https://stackoverflow.com/users/5527341/chaojun-zhong
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
-
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
