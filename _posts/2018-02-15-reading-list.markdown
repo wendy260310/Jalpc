@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "Reading List"
-date:   2018-02-15 09:01:57 +0800
-categories: reference 
+date:   2018-02-15 
+categories: [Tool]
+tags: [topics]
+desc: "some interesting cs topics"
+keywords: "cs,topics"
+icon: icon-html
 ---
 ## Topics
 1. `Concurrent Programming`

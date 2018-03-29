@@ -5,7 +5,7 @@ date:   2018-01-31
 desc: leetcode 191 number of 1 bits
 categories: [Leetcode] 
 icon: icon-html
-tags: [Jalpc,Jekyll]
+tags: [leetcode,algorithm]
 ---
 The problem link is [problem 191][problem_191]
 ```

@@ -2,13 +2,15 @@
 layout: post
 title:  "110. Balanced Binary Tree"
 date:   2018-02-1 19:01:57 +0800
-categories: leetcode 
+categories: [Leetcode] 
+tags: [leetcode,algorithm]
+desc: "leetcode 110 Balanced Binary Tree"
+icon: icon-html
+keywords: "leetcode,110"
 ---
-
 The problem link is [problem 110][problem_110],we recursively call the method,returns a pair of data.1st indicates if it is a blance tree,2nd indicates its height.
 a node is balanced if and only if its two children is balanced and two children's height diff less than 1.
-
-{% highlight ruby %}
+```
 public class Solution {
 
     public boolean isBalanced(TreeNode root) {
@@ -33,7 +35,5 @@ public class Solution {
 
     }
 }
-
-{% endhighlight %}
-
+```
 [problem_110]:https://leetcode.com/problems/balanced-binary-tree/description/
