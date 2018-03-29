@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Get Base64 Lookup Table"
+date:   2018-03-02 09:01:57 +0800
+categories: tools 
+---
+Generate a byte array and passed to a base64 encoder,the return result is the lookup table.
+{% highlight ruby %}
+byte[] tmp = new byte[48];
+for (byte i = 0, j = 0; i < 64; i += 4, j += 3) {
+    tmp[j] = (byte) (((i & 0x3f) << 2) | (((i + 1) & 0x3f) >>> 4));
+    tmp[j + 1] = (byte) ((((i + 1) & 0x3f) << 4) | (((i + 2) & 0x3f) >>> 2));
+    tmp[j + 2] = (byte) ((((i + 2) & 0x3f) << 6) | ((i + 3)) & 0x3f);
+}
+{% endhighlight %}
