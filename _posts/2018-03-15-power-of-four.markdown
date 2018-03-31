@@ -5,6 +5,8 @@ date:   2018-03-15 09:01:57 +0800
 categories: [Leetcode] 
 icon: icon-html
 tags: [leetcode,algorithm]
+desc: "leetcode power of four"
+keywords: "leetcode,problem 342,power of four"
 ---
 The problem link is [Power Of Four][problem_342].
 ```

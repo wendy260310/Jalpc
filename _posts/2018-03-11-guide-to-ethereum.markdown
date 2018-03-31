@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Guide to ethereum"
+desc: "guide to ethereum"
 date:   2018-03-11 09:01:57 +0800
 categories: [Tool]
 icon: icon-html

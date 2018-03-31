@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "413. Arithmetic Slices"
+desc:  "leetcode Arithmetic Slices"
+keywords: "leetcode,problem 413"
 date:   2018-02-5 09:01:57 +0800
 categories: [Leetcode] 
 icon: icon-html

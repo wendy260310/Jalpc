@@ -2,6 +2,9 @@
 layout: post
 title:  "121. best time to buy and sell stock"
 date:   2018-02-1 09:01:57 +0800
+desc: "best time to buy and sell stock"
+keywords: "leetcode,problem 121,dynamic programming,dp"
+tags: [dp,leetcode]
 categories: [Leetcode] 
 icon: icon-html
 tags: [leetcode,algorithm] 

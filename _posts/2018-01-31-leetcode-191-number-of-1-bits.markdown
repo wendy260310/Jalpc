@@ -3,6 +3,7 @@ layout: post
 title:  "191. number of 1 bits"
 date:   2018-01-31 
 desc: leetcode 191 number of 1 bits
+keywords: "leetcode,problem 191,algorithm"
 categories: [Leetcode] 
 icon: icon-html
 tags: [leetcode,algorithm]

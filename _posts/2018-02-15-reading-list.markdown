@@ -5,7 +5,7 @@ date:   2018-02-15
 categories: [Tool]
 tags: [topics]
 desc: "some interesting cs topics"
-keywords: "cs,topics"
+keywords: "cs,topics,databases,jvm,computer science,distributed systems"
 icon: icon-html
 ---
 ## Topics
@@ -24,6 +24,8 @@ icon: icon-html
 	- [Doug Lea's Workstation][Doug_Lea_blog]
 5. `Computer Architecture`
 	- [data alignment][data_alignment]
+6. `Algorithms`
+	- [Bit Twiddling Hacks][bit_twiddling_hacks]
 
 [clojure_document]: http://clojure-doc.org/articles/language/concurrency_and_parallelism.html
 [jsr_133]: http://g.oswego.edu/dl/jmm/cookbook.html
@@ -35,3 +37,5 @@ icon: icon-html
 [Two_phase_commit]: https://en.wikipedia.org/wiki/Two-phase_commit_protocol
 [Consistent_Nonlocking_Reads]: https://dev.mysql.com/doc/refman/5.7/en/innodb-consistent-read.html
 [data_alignment]: https://www.ibm.com/developerworks/library/pa-dalign/
+[bit_twiddling_hacks]: https://graphics.stanford.edu/~seander/bithacks.html
+

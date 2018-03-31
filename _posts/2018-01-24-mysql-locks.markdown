@@ -2,7 +2,7 @@
 layout: post
 title:  "Innodb locking"
 date:   2018-01-24
-desc: "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
+desc: "mysql Innodb locking"
 keywords: "mysql,Innodb,locking"
 categories: [Database]
 tags: [Innodb,mysql]
