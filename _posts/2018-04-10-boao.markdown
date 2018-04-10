@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "4.10博鳌论坛讲话"
+date:   Tuesday, 10. April 2018 10:24PM 
+desc: "2018年4月10博鳌论坛承诺总结"
+keywords: "国际贸易，热点实事，政治"
+categories: [Top-stories]
+tags: [国际贸易,实事,博鳌论坛]
+icon: icon-html
+---
+![博鳌论坛]({{"/static/assets/img/top-stories/boao.png" | prepend: site.baseurl }} "承诺的内容")  
