@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "4.13 海南自由贸易港"
+date:   Saturday, 14. April 2018 08:28PM 
+desc: "2018年4月13海南自由港讲话"
+keywords: "国际贸易，热点实事，政治"
+categories: [Top-stories]
+tags: [国际贸易,实事,博鳌论坛]
+icon: icon-html
+---
+![海南自由港]({{"/static/assets/img/top-stories/hainan.png" | prepend: site.baseurl }} "内容")  
+
